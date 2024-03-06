@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dog_app",
+    "slug": "dog_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
